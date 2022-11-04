@@ -3,3 +3,6 @@
 .RData
 .Ruserdata
 ml-25m
+.Rdata
+.httr-oauth
+.DS_Store
